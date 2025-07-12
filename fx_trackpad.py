@@ -2,7 +2,7 @@
 
 import os
 import time
-_DEBUG = True # change this to False :)
+_DEBUG = False # change this to False :)
 _AUTO = False
 
 if _DEBUG:
